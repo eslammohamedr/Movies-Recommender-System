@@ -14,5 +14,5 @@
 * Collaborative filtering is a method of making recommendations based only on the interactions between users and items. We don't need any information about items and users (information like user like or dislike item, … will be needed)
 
 for example We know that Rima and Amir both have similar tastes in books. If we recommend a book Rima has read to Amir, this is an example of a...collaborative filtering(see below).
-![2](https://user-images.githubusercontent.com/86850708/143606101-cf7dcf39-28f0-4bcd-b3f5-ffa52ecd50bf.png)
 
+![2](https://user-images.githubusercontent.com/86850708/143606222-1c94b57c-f252-49d5-8bad-25e1aa2f9041.png)
